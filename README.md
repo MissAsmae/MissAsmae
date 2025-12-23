@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asmae Bouchikhi</h1>
-<h3 align="center">A passionate Network and Telecommunications Engineer</h3>
+<h3 align="center">A passionate Network Engineer</h3>
 
-- 🌱 I’m currently learning **Openshift**
+- 🌱 I’m currently developing my skills in networking via **GNS3** **Cisco Packet Tracer**
 
 - 📫 How to reach me **asmaebouchikhi01@gmail.com**
 
